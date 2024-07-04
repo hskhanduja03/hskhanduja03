@@ -18,8 +18,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width="40" height="40"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -34,13 +37,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="express" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://figma.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://jwt.io" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://graphql.org/_next/static/media/logo.ad338028.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/09a11f3cef0b31aa2f56015680ee1f783ef4ba9234e293793c30fb0b819b691f/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://framer.com" target="_blank">
+    <img src="https://i.pinimg.com/originals/28/d3/ef/28d3ef2629e7d6b3151dc0b7e2b6c297.gif" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -55,7 +76,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
